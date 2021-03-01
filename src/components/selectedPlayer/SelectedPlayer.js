@@ -19,4 +19,4 @@ const SelectedPlayer = (props) => {
     );
 };
 
-export default SelectedPlayer;<h2>hello</h2>
+export default SelectedPlayer;
